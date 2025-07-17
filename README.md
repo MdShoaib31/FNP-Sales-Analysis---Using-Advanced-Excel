@@ -20,12 +20,12 @@ Executive Summary KPIs:
 ## ```Average Order-Delivery Time```: 5.53 Days
 ## ```Average Customer's Spending```: ₹3,520.98
 ## ```Revenue Performance Segments```:
- **Revenue by Occasions**: Identifies peak sales periods like Anniversary, Birthday, Diwali, and Raksha Bandhan.
- **Revenue by Days**: Shows daily sales fluctuations, with slight peaks on Tuesdays, Thursdays, and Saturdays.
- **Revenue by Hours (Order Time)**: Highlights popular ordering times, typically peaking in the late evening.
- **Revenue by Months**: Illustrates seasonal trends, with notable peaks in March/April and September/October.
- **Top 5 Products by Revenue**: Showcases high-performing products such as "Karan Phool Mag" and "Magnu Set."
- **Top 10 Cities by Revenue**: Pinpoints key markets like Mumbai and Bengaluru as primary revenue contributors.
+- **Revenue by Occasions**: Identifies peak sales periods like Anniversary, Birthday, Diwali, and Raksha Bandhan.
+- **Revenue by Days**: Shows daily sales fluctuations, with slight peaks on Tuesdays, Thursdays, and Saturdays.
+- **Revenue by Hours (Order Time)**: Highlights popular ordering times, typically peaking in the late evening.
+- **Revenue by Months**: Illustrates seasonal trends, with notable peaks in March/April and September/October.
+- **Top 5 Products by Revenue**: Showcases high-performing products such as "Karan Phool Mag" and "Magnu Set."
+- **Top 10 Cities by Revenue**: Pinpoints key markets like Mumbai and Bengaluru as primary revenue contributors.
 
 # 🛠️ Technologies Used
 - Microsoft Excel : Pivot Table, Pivot Charts, Excel Functions
